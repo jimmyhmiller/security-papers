@@ -15,4 +15,4 @@
 ## Potentials
 Have papers you think I should read? Add them here
 
-* 
+* [Remote Timing Attacks are Practical](http://crypto.stanford.edu/%7Edabo/papers/ssl-timing.pdf)
